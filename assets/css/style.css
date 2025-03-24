@@ -209,6 +209,21 @@ section.about-section {
   text-decoration: none;
   color: var(--dark-primary);
 }
+/* Education Section */
+section.education-section
+background-color: var(--dark-primary);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding: 100px 120px 50px 200px;
+
+/* Skills Section */
+section.skills-section
+background-color: var(--dark-primary);
+  color: #fff;
+  display: flex;
+  align-items: left;
+  padding: 100px 120px 50px 200px;
 
 /* Projects Section */
 section.projects-section {
