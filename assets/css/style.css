@@ -214,19 +214,12 @@ section.about-section {
 section.education-section {
   background-color: var(--dark-primary);
   color: #fff;
-  text-align: left;
-  justify-content: center;;
-  padding: 30px;
 }
 
 /* Skills Section */
 section.skills-section {
   background-color: var(--dark-primary);
   color: #fff;
-  display: flex;
-  text-align: left;
-  justify-content: center;
-  padding: 30px;
 }
 
   /* Projects Section */
