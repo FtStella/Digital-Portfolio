@@ -215,7 +215,7 @@ section.education-section {
   background-color: var(--dark-primary);
   color: #fff;
   display: flex;
-  align-items: center;
+  align-items: left;
   padding: 60px;
 }
 .education-content {
