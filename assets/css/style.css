@@ -224,8 +224,8 @@ section.skills-section {
   background-color: var(--dark-primary);
   color: #fff;
   display: flex;
-  align-items: left;
   justify-content: left;
+  padding: 60px;
 }
 
   /* Projects Section */
