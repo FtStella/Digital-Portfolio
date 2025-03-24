@@ -210,7 +210,7 @@ section.about-section {
   color: var(--dark-primary);
 }
 /* Education Section */
-section.education-section
+section.education-section {
 background-color: var(--dark-primary);
   color: #fff;
   display: flex;
@@ -262,7 +262,7 @@ background-color: var(--dark-primary);
 }
 
 /* Skills Section */
-section.skills-section
+section.skills-section {
 background-color: var(--dark-primary);
   color: #fff;
   display: flex;
