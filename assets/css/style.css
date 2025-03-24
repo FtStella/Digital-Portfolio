@@ -216,6 +216,7 @@ section.education-section {
   color: #fff;
   display: flex;
   align-items: left;
+  justify-content: left;
   padding: 60px;
 }
 .education-content {
@@ -246,11 +247,12 @@ section.education-section {
 
 /* Skills Section */
 section.skills-section {
-background-color: var(--dark-primary);
+  background-color: var(--dark-primary);
   color: #fff;
   display: flex;
   align-items: left;
-  padding: 100px 120px 50px 200px;
+  justify-content: left;
+  padding: 60px;
 
 .education-content {
   margin-left: 10px;
