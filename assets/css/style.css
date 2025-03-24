@@ -210,25 +210,6 @@ section.about-section {
   color: var(--dark-primary);
 }
 
-/* Education Section */
-section.education-section {
-  background-color: var(--dark-primary);
-  color: #fff;
-  display: flex;
-  align-items: left;
-  justify-content: left;
-  padding: 60px;
-}
-
-/* Skills Section */
-section.skills-section {
-  background-color: var(--dark-primary);
-  color: #fff;
-  display: flex;
-  align-items: left;
-  justify-content: left;
-  padding: 60px;
-
   /* buttons */
 .btn {
   padding: 10px 20px;
