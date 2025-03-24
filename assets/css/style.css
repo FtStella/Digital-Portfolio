@@ -210,18 +210,6 @@ section.about-section {
   color: var(--dark-primary);
 }
 
-/* Education Section */
-section.education-section {
-  background-color: var(--dark-primary);
-  color: #fff;
-}
-
-/* Skills Section */
-section.skills-section {
-  background-color: var(--dark-primary);
-  color: #fff;
-}
-
   /* Projects Section */
 section.projects-section {
   background-color: var(--dark-primary);
