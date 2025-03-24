@@ -210,7 +210,24 @@ section.about-section {
   color: var(--dark-primary);
 }
 
-/* Projects Section */
+/* Education Section */
+section.education-section {
+  background-color: var(--dark-primary);
+  color: #fff;
+  align-items: left;
+  justify-content: left;
+}
+
+/* Skills Section */
+section.skills-section {
+  background-color: var(--dark-primary);
+  color: #fff;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+
+  /* Projects Section */
 section.projects-section {
   background-color: var(--dark-primary);
   color: #fff;
