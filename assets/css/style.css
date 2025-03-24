@@ -214,7 +214,7 @@ section.about-section {
 section.education-section {
   background-color: var(--dark-primary);
   color: #fff;
-  align-items: left;
+  text-align: left;
   justify-content: center;;
   padding: 30px;
 }
@@ -224,7 +224,7 @@ section.skills-section {
   background-color: var(--dark-primary);
   color: #fff;
   display: flex;
-  align-items: center;
+  text-align: left;
   justify-content: center;
   padding: 30px;
 }
