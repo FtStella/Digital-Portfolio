@@ -216,25 +216,6 @@ section.about-section {
   color: var(--dark-primary);
 }
 
-/* Education Section */
-section.education-section {
-  background-color: var(--dark-primary);
-  color: #fff;
-  text-align: left;
-  justify-content: center;;
-  padding: 30px;
-}
-
-/* Skills Section */
-section.skills-section {
-  background-color: var(--dark-primary);
-  color: #fff;
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  padding: 30px;
-}
-
 /* Projects Section */
 section.projects-section {
   background-color: var(--dark-primary);
