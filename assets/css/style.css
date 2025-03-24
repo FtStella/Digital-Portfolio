@@ -219,31 +219,6 @@ section.education-section {
   justify-content: left;
   padding: 60px;
 }
-.education-content {
-  margin-left: 10px;
-  max-width: 600px;
-}
-.education-content h2 {
-  font-size: 33px;
-}
-
-.education-content h2 > span {
-  color: var(--primary);
-}
-
-.education-content p {
-  color: #c4c4c4;
-  font-size: 15px;
-}
-
-.education-content button {
-  margin-top: 30px;
-  font-size: 15px;
-}
-.education-content button > a {
-  text-decoration: none;
-  color: var(--dark-primary);
-}
 
 /* Skills Section */
 section.skills-section {
