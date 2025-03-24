@@ -216,7 +216,7 @@ section.education-section {
   color: #fff;
   align-items: left;
   justify-content: center;;
-  padding: 60px;
+  padding: 30px;
 }
 
 /* Skills Section */
@@ -226,7 +226,7 @@ section.skills-section {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 60px;
+  padding: 30px;
 }
 
   /* Projects Section */
